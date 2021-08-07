@@ -63,7 +63,8 @@ The library has been tested on Linux, but it is compatible with Windows and MacO
 On Ubuntu 14.04 LTS:
 
 ```
-sudo apt-get install build-essential git libboost-all-dev cmake libgmp3-dev libssl-dev libprocps3-dev pkg-config
+sudo apt-get install build-essential git libboost-all-dev cmake libgmp3-dev libssl-dev libprocps-dev:i386 pkg-config
+
 ```
 
 
